@@ -1,0 +1,18 @@
+body {
+	font-family: sans-serif;
+}
+
+li {
+	position: relative;
+	background-color: blue;
+	color: #ccc;
+	width: 3em;
+	height: 4em;
+	margin-bottom: 15px;
+}
+
+#three {
+	position: absolute;
+	top: 44px;
+	left: 18px;
+}

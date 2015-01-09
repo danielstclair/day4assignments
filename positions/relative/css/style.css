@@ -1,0 +1,10 @@
+li {
+	background-color: red;
+	width: 100px;
+	margin-bottom: 20px;
+}
+
+#out {
+	position: relative;
+	left: 100px;
+}
